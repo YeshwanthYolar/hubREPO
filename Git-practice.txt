@@ -6,3 +6,7 @@ hi this si my SECOND line after commiting the first line
 
 
 Hi this is my first line in a new-feature branch 
+
+
+
+hi this is the line written in git hub console
