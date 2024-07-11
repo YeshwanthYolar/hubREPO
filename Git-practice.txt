@@ -2,3 +2,7 @@ Hi this is my first git line in main branch.  echo "date"
 
 
 
+hi this si my SECOND line after commiting the first line
+
+
+
